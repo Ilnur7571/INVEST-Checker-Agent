@@ -1,6 +1,7 @@
 # Telegram INVEST-Checker Agent (GigaChat) 
  
-🤖 INVEST-Checker Bot (GigaChat) - @Notes24_7_bot
+🤖 INVEST-Checker Bot (GigaChat) 
+- - @Notes24_7_bot
 AI-агент для анализа User Stories по критериям INVEST через Telegram-бота с использованием GigaChat API. 
 Использует GigaChat API для анализа, SQLite для хранения примеров, и поддерживает асинхронные операции. 
 
