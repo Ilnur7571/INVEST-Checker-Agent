@@ -27,10 +27,10 @@ AI-агент для анализа User Stories по критериям INVEST 
 
 ### 1. Клонирование и настройка
 
-git clone <repository-url>
-cd tg_bot_final
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+- git clone <repository-url>
+- cd tg_bot_final
+- python -m venv venv
+- source venv/bin/activate  # Windows: venv\Scripts\activate
 
 ## 🔧 Разработка
 
